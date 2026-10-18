@@ -18,7 +18,7 @@ print(f"{numero1} % {numero2} = {resto}")
 print(f"{numero1} ^ {numero2} = {potenciacao}")
 
 # -16 + (-7) = -23
-print(f"\n{-numero1} + {-numero2} = {-numero1 + -numero2}")
+print(f"\n{-numero1} + {-numero2}b = {-numero1 + -numero2}")
 
 # -16 + 7 = -9
 print(f"{-numero1} + {numero2} = {-numero1 + numero2}")
